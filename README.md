@@ -1,3 +1,6 @@
 # Text_Analysis_Final_Project
-Local Narratives: Understanding Concepts of Home and Loss in Gaza
+##**Local Narratives: Understanding Concepts of Home and Loss in Gaza**
+###**Abstract**
 This research focuses on the narratives of Palestinians in Gaza to explore how they articulate the intertwined concepts of "home" and "loss" amidst the ongoing genocide. Through the lens of personal writings from the “We Are Not Numbers” platform, the study aims to capture the lived experiences of displacement, destruction, and survival, highlighting the psychological and cultural dimensions of home and the multi-layered impact of loss. It builds upon underrepresented voices in mainstream narratives, aiming to bring these stories into the public discourse and inform trauma-sensitive humanitarian and post-conflict policies. The analysis employs NLP tools, including sentiment analysis, topic modeling, and thematic frequency analysis, to uncover emotional nuances, recurring themes, and evolving conceptualizations, ultimately contributing to a deeper understanding of displacement, identity, and resilience within the context of Gaza’s destruction.
+
+For detailed description of the research analysis and findings, see project notebook [here](https://github.com/Farmer-LandoftheLiving/Text_Analysis_Final_Project/blob/main/Final_Assignment_Gaza_WANN_.ipynb)
